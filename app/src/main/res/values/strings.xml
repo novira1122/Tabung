@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CylinderApp</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_radius">Enter Radius</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="result_text">Result will be shown here</string>
+</resources>
